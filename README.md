@@ -19,28 +19,3 @@ Currently, I’m on a journey to become a **MERN Stack Developer**, and I’m ac
 ## 🧰 Tech Stack
 ```html
 HTML • CSS • Tailwind CSS • JavaScript • Git • GitHub
-💻 Projects
-Project	Live Demo	Code
-✅ Todo List	View	Repo
-🌦️ Weather Web App	View	Repo
-🧮 Calculator App	View	Repo
-
-📊 GitHub Stats
-
-
-📱 Connect With Me
-📍 Location: Shah Faisal Green Town, Karachi
-
-📞 WhatsApp: 0323 5980916
-
-💼 LinkedIn
-
-📘 Udemy Course Certificate
-
-“Consistency is more important than perfection. Keep building. Keep learning.” 🚀
-
-pgsql
-Copy
-Edit
-
-Let me know if you want this converted to a PDF or need help uploading it to GitHub. ​:contentReference[oaicite:0]{index=0}
