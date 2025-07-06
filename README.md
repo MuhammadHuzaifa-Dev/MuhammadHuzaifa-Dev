@@ -22,15 +22,6 @@ I'm a passionate and self-driven **Front-End Web Developer** from Karachi, Pakis
 
 ---
 
-## 💻 Projects
-| Project | Live Demo | Code |
-|---------|-----------|------|
-| ✅ Todo List | [View](https://todo-list-git-main-huzaifas-projects-827a906f.vercel.app/) | [Repo](https://github.com/MuhammadHuzaifa-Dev/Todo-list) |
-| 🌦️ Weather Web App | [View](https://weather-webapp-huzaifas-projects-827a906f.vercel.app/) | [Repo](https://github.com/MuhammadHuzaifa-Dev/Weather_webapp) |
-| 🧮 Calculator App | [View](https://calculator-with-tailwindcss-and-jav-chi.vercel.app/) | [Repo](https://github.com/MuhammadHuzaifa-Dev/calculator-with-Tailwindcss-and-Javascript) |
-
----
-
 ## 📊 GitHub Stats
 ![Muhammad Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifa-Dev&show_icons=true&theme=radical)
 
